@@ -1,0 +1,7 @@
+{
+  "name": "@keshsad/auth",
+  "dependencies": {
+    "@openauthjs/openauth": "^0.4.3",
+    "valibot": "^1.1.0"
+  }
+}
