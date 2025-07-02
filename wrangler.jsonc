@@ -4,5 +4,12 @@
     "compatibility_flags": [
         "nodejs_compat"
     ],
-    "main": "issuer.ts"
+    "main": "issuer.ts",
+    "routes": [
+        {
+            "custom_domain": true,
+            "pattern": "auth.keshsad.com",
+            "zone_name": "keshsad.com"
+        }
+    ]
 }
